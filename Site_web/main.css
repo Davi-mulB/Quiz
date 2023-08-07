@@ -1,0 +1,123 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.modal-finish {
+  /* display: none; */
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0 0 0 / .9);
+  color: #FFFFFF;
+  opacity: 0;
+  visibility: hidden;
+  transition: .3s;
+}
+
+.modal-finish.open {
+  opacity: 1;
+  visibility: visible;
+}
+
+body {
+  height: 94.6vh;
+  background-image: url("corsafoda.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.alternativas {
+  gap: 5px;
+  padding: 5px;
+  border: 5px solid rgb(71, 71, 71);
+  border-radius: 15px;
+  background-color: rgba(128, 128, 128, 0.651);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.quiz {
+  align-items: center;
+}
+
+.pergunta {
+  text-align: center;
+}
+
+button {
+  background-color: #c7c7c7b2;
+  border: 2px solid rgb(71, 71, 71);
+  font-size: 1.2rem;
+}
+
+button:hover {
+  background-color: rgb(71, 255, 71);
+  background-image: radial-gradient(#ffffff, rgb(0, 255, 0));
+}
+
+div.alternativas > :nth-child(1) {
+  border-radius: 8px 0px 0px 0px;
+}
+
+div.alternativas > :nth-child(2) {
+  border-radius: 0px 8px 0px 0px;
+}
+
+div.alternativas > :nth-child(9) {
+  border-radius: 0px 0px 0px 8px;
+}
+
+div.alternativas > :nth-child(10) {
+  border-radius: 0px 0px 8px 0px ;
+}
+
+.pergunta {
+  border: 5px solid rgb(71, 71, 71);
+  border-radius: 15px 15px 0px 0px;
+  background-color: rgba(128, 128, 128, 0.651);
+  margin-bottom: -0.4%;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2.5rem;
+  color: #15ff00;
+  -webkit-text-stroke: 0.25px black;
+  font-family: 'Bebas Neue', sans-serif, 'Times New Roman', Times, serif;
+}
+
+.contador {
+  text-align: center;
+  border: 5px solid rgb(71, 71, 71);
+  border-radius:  0px 0px 15px 15px;
+  background-color: rgba(128, 128, 128, 0.651);
+  margin-top: -0.4%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.85rem;
+  color: #15ff00;
+  -webkit-text-stroke: 0.25px black;
+  font-family: 'Bebas Neue', sans-serif, 'Times New Roman', Times, serif;
+}
+
+h2 {
+  color: #15ff00;
+  text-align: center;
+  font-size: 3.25rem;
+  border: 5px solid rgb(71, 71, 71);
+  margin-bottom: 0%;
+  background-color:rgba(128, 128, 128, 0.651);
+  border-radius: 15px;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+}
+
+.uau {
+  margin-top: 10px;
+  width: 65vw;
+  height: 50vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid rgb(71, 71, 71);
+  border-radius: 20px;
+}

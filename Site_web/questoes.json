@@ -1,0 +1,53 @@
+[
+    {
+        "pergunta": "1) Qual é o modelo do recorde de volta mais rápida de um carro de produção em Nurburgring?",
+        "correta": 6,
+        "alternativas": ["Aston Martin Valkyrie","Lamborghini SVJ","City do meu pai","Bugatti Chiron 300+","Porsche 911 GT3","Ferrari F40","Mercedes AMG One","Uno Mille (com escada)","Uno Mille (adesivo da firma)","Uno Mille (com escada e adesivo da firma)"]
+    },
+    {
+        "pergunta": "2) Qual foi o tempo da volta? (arredondado)",
+        "correta": 3,
+        "alternativas": ["chuvoso","ensolarado","6:20","6:30","6:40","6:50","6:99","7:00","7:10","7:20"]
+    },
+    {
+        "pergunta": "3) Qual é o modelo do recorde de volta mais rápida de um carro sem restrições em Nurburgring?",
+        "correta": 4,
+        "alternativas": ["Mercedes AMG One", "Fiat 1000tipla", "Cadillac V-series", "RedBull Formula1","Porsche 919 H Evo", "Ferrari Sf90", "Civic tunado pela mecânica da esquina aqui de casa", "Lamborghini Revuelto", "Bugatti Bolide", "Bmx"]
+    },
+    {
+        "pergunta": "4) Qual formato de motor o Bugatti Chiron SS 300+ usa?",
+        "correta": 6,
+        "alternativas": ["V12", "V10", "V8", "I6","Motor de Marea", "W12", "W16", "Vtec", "2jz", "É segredo"]
+    },
+    {
+        "pergunta": "5) Qual é o nome do italiano criador da Ferrari?",
+        "correta": 9,
+        "alternativas": ["Filipo", "Jorge", "Ricardo", "Mario","Luigi", "Bowser", "Jhon", "Giuseppe", "Ferrucio", "Enzo"]
+    },
+    {
+        "pergunta": "6) Qual é o nome do carro pilotado por Baby em Baby Driver?",
+        "correta": 8,
+        "alternativas": ["Honda Civic", "Toyota AE86", "Mazda RX7", "Dodge Challenger","Hyundai Santa Fe","Dodge Charger", "Toyota Supra", "Nissan GTR", "Subaru WRX", "Ferrari Testarossa"]
+    },
+    {
+        "pergunta": "7) Qual é o carro mais vendido da história?",
+        "correta": 5,
+        "alternativas": ["Ford F-150", "VolksWagen Golf", "VolksWagen Polo", "VolksWagen Fusca","Fiat Palio","Toyota Corolla", "Ford Fiesta", "Ford Focus", "Ford escort", "Chevrolet Corsa"]
+    },
+    {
+        "pergunta": "8) Qual é o nome da empresa japonesa famosa por modificar carros da Porsche?",
+        "correta": 0,
+        "alternativas": ["RWB", "ABT", "BBS", "Liberty Walk","Hoonigan","Brabus", "Mansory", "Hennesey", "Gerson Car", "Rocket Bunny"]
+    },
+    {
+        "pergunta": "9) Qual é a empresa dona de marcas como Fiat, Alfa Romeo e Maserati? ",
+        "correta": 7,
+        "alternativas": ["Coca-Cola", "Disney", "Apple", "Microsoft","Casas Bahia", "Mansory", "Hennesey","Stellantis", "Gerson Car", "Rocket Bunny"]
+    },
+    {
+        "pergunta": "10) Qual desses não é um modelo de carro ",
+        "correta": 7,
+        "alternativas": ["Fusca", "Gol", "Puma GTB", "Corolla","Civic", "Velar", "Tracker","Daniel de Andrade Varela", "RAM", "Opalão"]
+    }
+
+  ]
